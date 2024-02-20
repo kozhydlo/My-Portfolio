@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import './castomCursor.css'; // Стилі для кастомного курсора
-import appleCursor from '../assets/img/cursor.png'; // Шлях до зображення курсора
+import './castomCursor.css'; 
+import appleCursor from '../assets/img/cursor.png'; 
 
 const CustomCursor = () => {
   const [position, setPosition] = useState({ x: 0, y: 0 });
@@ -23,3 +23,4 @@ const CustomCursor = () => {
 };
 
 export default CustomCursor;
+
