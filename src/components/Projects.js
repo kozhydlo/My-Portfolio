@@ -52,7 +52,7 @@ export const Projects = () => {
     },
   ];
 
-  const projects2 = [ // Доданий новий об'єкт projects2
+  const projects2 = [ 
     {
       title: "Gta 6 Form",
       description: "Development",
