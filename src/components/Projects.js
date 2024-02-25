@@ -76,7 +76,7 @@ export const Projects = () => {
     },
     {
       title: "kozhydloshop",
-      description: "Design & Development",
+      description: "Development",
       imgUrl: projImg11,
     },
   ];
