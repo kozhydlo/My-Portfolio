@@ -13,6 +13,8 @@ import projImg8 from "../assets/img/proj9.png";
 import projImg9 from "../assets/img/proj10.png";
 import projImg10 from "../assets/img/pizza.png";
 import projImg11 from "../assets/img/proj11.png";
+import projImg12 from "../assets/img/proj12.png";
+import projImg13 from "../assets/img/proj13.png";
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
@@ -79,6 +81,16 @@ export const Projects = () => {
       description: "Development",
       imgUrl: projImg11,
     },
+     {
+      title: "3legant",
+      description: "Development",
+      imgUrl: projImg12,
+    },
+    {
+      title: "Vue SNEAKERS",
+      description: "Development",
+      imgUrl: projImg13,
+    }
   ];
 
   return (
